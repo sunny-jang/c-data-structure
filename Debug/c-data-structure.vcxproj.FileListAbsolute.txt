@@ -1,0 +1,2 @@
+G:\esunb\Github\c-data-structure\Debug\c-data-structure.exe
+G:\esunb\Github\c-data-structure\Debug\c-data-structure.pdb
