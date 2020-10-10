@@ -1,3 +1,5 @@
 # Visual C++ cache files
 *.opendb
 *.opensdf
+.vs
+Debug/
