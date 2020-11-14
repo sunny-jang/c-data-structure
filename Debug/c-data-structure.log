@@ -1,4 +1,2 @@
-﻿  queue.cpp
-G:\esunb\Github\c-data-structure\queue.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-G:\esunb\Github\c-data-structure\queue.cpp(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+﻿  sort.cpp
   c-data-structure.vcxproj -> G:\esunb\Github\c-data-structure\Debug\c-data-structure.exe
