@@ -45,5 +45,11 @@
     <ClCompile Include="doubleLinkedList.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="treecpp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hashtable.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
