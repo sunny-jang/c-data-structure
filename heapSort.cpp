@@ -63,8 +63,8 @@ void Pop_heap(int list[]) {
 	int size = --list[0]; // 사이즈를 하나 줄임
 	Swap(&list[1], &list[size + 1]);
 
-	int parent = 1; // 1번 인덱스가 빠지면서 마지막 원소값이 1번 인덱스로 들어옴. 자식이랑 비교해 서 자식이 
-	// 더 크면 자리를 바꿔줘야 함
+	int parent = 1; // 1번 인덱스가 빠지면서 마지막 원소값이 1번 인덱스로 들어옴.
+	//자식이랑 비교해 서 자식이 더 크면 자리를 바꿔줘야 함
 	int child = parent * 2; // 자식은 부모 인덱스의 *2 
 
 	while (child <= size) {
