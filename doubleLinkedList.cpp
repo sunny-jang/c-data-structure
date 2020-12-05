@@ -83,7 +83,7 @@ int main() {
 
 	AddHeadList(head, tail, 40);
 	AddHeadList(head, tail, 50);
-
+	 
 	Node* p = head->next->next->next;
 	RemoveList(head, tail, p);
 	RemoveTail(head, tail);
